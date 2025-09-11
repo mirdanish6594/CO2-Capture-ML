@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+rdkit-pypi
+xgboost
+shap
+optuna
