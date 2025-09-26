@@ -1,6 +1,6 @@
 # In Silico Descriptor-Based High-Throughput Screening of Amine-Based Solvents for CO₂ Capture
 
-> A machine learning project to replicate, extend, and explain the prediction of CO₂ absorption in chemical solvents, designed for execution in Google Colab.
+> A machine learning project to replicate, extend, and explain the prediction of CO₂ absorption in chemical solvents.
 
 ---
 
